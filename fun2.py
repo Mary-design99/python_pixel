@@ -1,0 +1,2 @@
+from function import calculate_discount
+calculate_discount(1200)
